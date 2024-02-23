@@ -1,0 +1,13 @@
+C:\Users\Isaia\OneDrive\Desktop\CSCI 3430\A6\StopWatch\StopWatch\bin\Debug\StopWatch.exe.config
+C:\Users\Isaia\OneDrive\Desktop\CSCI 3430\A6\StopWatch\StopWatch\bin\Debug\StopWatch.exe
+C:\Users\Isaia\OneDrive\Desktop\CSCI 3430\A6\StopWatch\StopWatch\bin\Debug\StopWatch.pdb
+C:\Users\Isaia\OneDrive\Desktop\CSCI 3430\A6\StopWatch\StopWatch\bin\Debug\StopWatch.xml
+C:\Users\Isaia\OneDrive\Desktop\CSCI 3430\A6\StopWatch\StopWatch\obj\Debug\StopWatch.vbproj.AssemblyReference.cache
+C:\Users\Isaia\OneDrive\Desktop\CSCI 3430\A6\StopWatch\StopWatch\obj\Debug\StopWatch.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Isaia\OneDrive\Desktop\CSCI 3430\A6\StopWatch\StopWatch\obj\Debug\StopWatch.Form1.resources
+C:\Users\Isaia\OneDrive\Desktop\CSCI 3430\A6\StopWatch\StopWatch\obj\Debug\StopWatch.Resources.resources
+C:\Users\Isaia\OneDrive\Desktop\CSCI 3430\A6\StopWatch\StopWatch\obj\Debug\StopWatch.vbproj.GenerateResource.cache
+C:\Users\Isaia\OneDrive\Desktop\CSCI 3430\A6\StopWatch\StopWatch\obj\Debug\StopWatch.vbproj.CoreCompileInputs.cache
+C:\Users\Isaia\OneDrive\Desktop\CSCI 3430\A6\StopWatch\StopWatch\obj\Debug\StopWatch.exe
+C:\Users\Isaia\OneDrive\Desktop\CSCI 3430\A6\StopWatch\StopWatch\obj\Debug\StopWatch.xml
+C:\Users\Isaia\OneDrive\Desktop\CSCI 3430\A6\StopWatch\StopWatch\obj\Debug\StopWatch.pdb

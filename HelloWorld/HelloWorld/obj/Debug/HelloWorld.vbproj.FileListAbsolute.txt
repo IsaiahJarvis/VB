@@ -1,0 +1,13 @@
+C:\Users\Isaia\OneDrive\Desktop\CSCI 3430\A6\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\Isaia\OneDrive\Desktop\CSCI 3430\A6\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Isaia\OneDrive\Desktop\CSCI 3430\A6\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Isaia\OneDrive\Desktop\CSCI 3430\A6\HelloWorld\HelloWorld\bin\Debug\HelloWorld.xml
+C:\Users\Isaia\OneDrive\Desktop\CSCI 3430\A6\HelloWorld\HelloWorld\obj\Debug\HelloWorld.vbproj.AssemblyReference.cache
+C:\Users\Isaia\OneDrive\Desktop\CSCI 3430\A6\HelloWorld\HelloWorld\obj\Debug\HelloWorld.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Isaia\OneDrive\Desktop\CSCI 3430\A6\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Form1.resources
+C:\Users\Isaia\OneDrive\Desktop\CSCI 3430\A6\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Resources.resources
+C:\Users\Isaia\OneDrive\Desktop\CSCI 3430\A6\HelloWorld\HelloWorld\obj\Debug\HelloWorld.vbproj.GenerateResource.cache
+C:\Users\Isaia\OneDrive\Desktop\CSCI 3430\A6\HelloWorld\HelloWorld\obj\Debug\HelloWorld.vbproj.CoreCompileInputs.cache
+C:\Users\Isaia\OneDrive\Desktop\CSCI 3430\A6\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Isaia\OneDrive\Desktop\CSCI 3430\A6\HelloWorld\HelloWorld\obj\Debug\HelloWorld.xml
+C:\Users\Isaia\OneDrive\Desktop\CSCI 3430\A6\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
